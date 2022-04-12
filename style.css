@@ -1,0 +1,19 @@
+.top {
+    background-color: darkred;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    background-color: darkseagreen;
+}
+img {
+    display: flex;
+    justify-content: center;
+}
